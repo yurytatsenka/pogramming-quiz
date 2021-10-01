@@ -15,6 +15,7 @@ export const burgers = (ref) => (
       <div className="top-bun"></div>
       <div className="lettuce"></div>
       <div className="pepper"></div>
+      <div className="cheese"></div>
       <div className="beef"></div>
       <div className="tomato"></div>
       <div className="bottom-bun"></div>
